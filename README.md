@@ -38,3 +38,5 @@ This project helped me practice:
 - Add JavaScript functionality
 - Implement Dark Mode
 - Create Dynamic Video Data
+
+This project is an educational front-end clone created to practice HTML and CSS. Any video thumbnails, channel images, logos, or other third-party assets displayed in the project belong to their respective owners and are used for demonstration purposes only.
